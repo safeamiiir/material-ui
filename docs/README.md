@@ -8,7 +8,7 @@ To start the docs site in development mode, from the project root, run:
 yarn && yarn docs:dev
 ```
 
-If you do have yarn installed, select your OS and follow the instructions on the [Yarn website](https://yarnpkg.com/lang/en/docs/install/#mac-stable).
+If yo have yarn installed, select your OS and follow the instructions on the [Yarn website](https://yarnpkg.com/lang/en/docs/install/#mac-stable).
 
 _DO NOT USE NPM, use Yarn to install the dependencies._
 
