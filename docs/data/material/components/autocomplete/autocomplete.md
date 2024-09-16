@@ -4,6 +4,7 @@ title: React Autocomplete component
 components: TextField, Popper, Autocomplete
 githubLabel: 'component: autocomplete'
 waiAria: https://www.w3.org/WAI/ARIA/apg/patterns/combobox/
+githubSource: packages/mui-material/src/Autocomplete
 ---
 
 # Autocomplete
@@ -173,6 +174,8 @@ The `useAutocomplete` hook is also reexported from @mui/material for convenience
 ```tsx
 import useAutocomplete from '@mui/material/useAutocomplete';
 ```
+
+- 📦 [4.6 kB gzipped](https://bundlephobia.com/package/@mui/material).
 
 {{"demo": "UseAutocomplete.js", "defaultCodeOpen": false}}
 
